@@ -15,7 +15,15 @@ _Objetivos Específicos:_
 
 CAPÍTULO 1    
 ![Mapa 1]( https://github.com/AlexMP98/Tarea/blob/main/Conceptos%20fundamentales%20de%20CD.jpg )    
-![Mapa 2]( https://github.com/AlexMP98/Tarea/blob/main/Conceptos%20fundamentales%20de%20CD%20(2).png)  
+![Mapa 2]( https://github.com/AlexMP98/Tarea/blob/main/Conceptos%20fundamentales%20de%20CD%20(2).png)     
+
+CAPÍTULO 2     
+
+![Mapa 2.1]( https://github.com/AlexMP98/Tarea/blob/main/Cuadro%201.PNG )   
+![Mapa 2.2]( https://github.com/AlexMP98/Tarea/blob/main/cuadro2.PNG)     
+![Mapa 2.3]( https://github.com/AlexMP98/Tarea/blob/main/Cuadro3.PNG)     
+
+
 
 
 
