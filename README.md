@@ -67,7 +67,7 @@ Ejercicios capítulo 2
 ![EJERC2 7](https://github.com/AlexMP98/Tarea/blob/main/EjerC2%207.png)
 ![EJERC2 8-9](https://github.com/AlexMP98/Tarea/blob/main/EjerC2%208-9.png)
 ![EJERC2 10-11](https://github.com/AlexMP98/Tarea/blob/main/EjerC2%2010-11.png)
-
+![Ejercicio 12-13](https://github.com/AlexMP98/Tarea/blob/main/Ejercicio%201.PNG)
 
 
 
