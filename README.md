@@ -14,8 +14,8 @@ _Objetivos Específicos:_
 **2. MARCO TEÓRICO**   
 
 CAPÍTULO 1    
-![Mapa 1]( https://i.imgur.com/BOj2PGf.jpg)     
-![Mapa 2]( https://i.imgur.com/NhSlEgI.png)
+![Mapa 1]( https://github.com/AlexMP98/Tarea/blob/main/Conceptos%20fundamentales%20de%20CD.jpg )  
+
 
 
   
