@@ -48,6 +48,7 @@ Ejercicios capítulo 1
 ![EJER 23-32]( https://github.com/AlexMP98/Tarea/blob/main/29-32.png)   
 ![EJER 33-35]( https://github.com/AlexMP98/Tarea/blob/main/33-35.png)   
 ![EJER 36](https://github.com/AlexMP98/Tarea/blob/main/Ejer%2036.png)
+
 ![EJER 37-38](https://github.com/AlexMP98/Tarea/blob/main/Ejer%2037-38.png)
 ![EJER 39-40](https://github.com/AlexMP98/Tarea/blob/main/Ejer%2039-40.png)
 ![EJER 41-42](https://github.com/AlexMP98/Tarea/blob/main/Ejer%2041-42.png)
