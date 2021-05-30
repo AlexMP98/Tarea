@@ -90,6 +90,7 @@ Ejercicios capítulo 2
 ![Ejercicio 47](https://github.com/AlexMP98/Tarea/blob/main/Ejercicio%2020.PNG)    
 
 **4. VIDEO**   
+https://youtu.be/acCN_OyY7aY
 
 
 **5. CONCLUSIONES**    
