@@ -48,8 +48,24 @@ Ejercicios capítulo 1
 ![EJER 23-32]( https://github.com/AlexMP98/Tarea/blob/main/29-32.png)   
 ![EJER 33-35]( https://github.com/AlexMP98/Tarea/blob/main/33-35.png)   
 ![EJER 36](https://github.com/AlexMP98/Tarea/blob/main/Ejer%2036.png)
+![EJER 37-38](https://github.com/AlexMP98/Tarea/blob/main/Ejer%2037-38.png)
+![EJER 39-40](https://github.com/AlexMP98/Tarea/blob/main/Ejer%2039-40.png)
+![EJER 41-42](https://github.com/AlexMP98/Tarea/blob/main/Ejer%2041-42.png)
+![EJER 43-44](https://github.com/AlexMP98/Tarea/blob/main/Ejer%2043-44.png)
+![EJER 45-46](https://github.com/AlexMP98/Tarea/blob/main/Ejer%2045-46.png)
+![EJER 47-48](https://github.com/AlexMP98/Tarea/blob/main/Ejer%2047-48.png)
+![EJER 49-50](https://github.com/AlexMP98/Tarea/blob/main/Ejer%2049-50.png)
+![EJER 51-52](https://github.com/AlexMP98/Tarea/blob/main/Ejer%2051-52.png)
+![EJER 53-54](https://github.com/AlexMP98/Tarea/blob/main/Ejer%2053-54.png)
 
 Ejercicios capítulo 2
+
+![EJERC2 1-2](https://github.com/AlexMP98/Tarea/blob/main/EjerC2%201-2.png)
+![EJERC2 3-4](https://github.com/AlexMP98/Tarea/blob/main/EjerC2%203-4.png)
+![EJERC2 5-6](https://github.com/AlexMP98/Tarea/blob/main/EjerC2%205-6.png)
+![EJERC2 7](https://github.com/AlexMP98/Tarea/blob/main/EjerC2%207.png)
+![EJERC2 8-9](https://github.com/AlexMP98/Tarea/blob/main/EjerC2%208-9.png)
+![EJERC2 10-11](https://github.com/AlexMP98/Tarea/blob/main/EjerC2%2010-11.png)
 
 
 
