@@ -85,11 +85,6 @@ Ejercicios capítulo 2
 ![Ejercicio 40-41](https://github.com/AlexMP98/Tarea/blob/main/Ejercicio%2016.PNG)
 ![Ejercicio 42-43](https://github.com/AlexMP98/Tarea/blob/main/Ejercicio%2017.PNG)
 ![Ejercicio 44-45](https://github.com/AlexMP98/Tarea/blob/main/Ejercicio%2018.PNG)
-![Ejercicio 46-47](https://github.com/AlexMP98/Tarea/blob/main/Ejercicio%201.PNG)      
-
-**4. VIDEO**       
-
-**5. CONCLUSIONES**     
-* Se concluye que hemos podido indagar en los diferentes conceptos, diagramas, definiciones,bases de la teoria de circuitos al igual que los distintos tipos de corrientes y sistemas en los que se basan a la vez que implementamos cada uno de los temas antes mencionados en cada problematica vista en el estudio.      
-* Es muy importante dominar los temas de notación de potenias de diez y la conversión de unidades ya que es muy útil poder pasar de una unidad de medida a otra y poder expresar cantidades muy grandes o pequeñas, ya que sse usan mucho al momento de trabajar con circuitos, electrones.etc.
-
+![Ejercicio 46](https://github.com/AlexMP98/Tarea/blob/main/Ejercicio%20191.PNG)
+![Ejercicio 46-461](https://github.com/AlexMP98/Tarea/blob/main/Ejercicio%20192.PNG)
+![Ejercicio 47](https://github.com/AlexMP98/Tarea/blob/main/Ejercicio%2020.PNG)
