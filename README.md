@@ -94,8 +94,9 @@ Ejercicios capítulo 2
 
 **5. CONCLUSIONES**    
 * Se concluye que hemos podido indagar en los diferentes conceptos, diagramas, definiciones,bases de la teoria de circuitos al igual que los distintos tipos de corrientes y sistemas en los que se basan a la vez que implementamos cada uno de los temas antes mencionados en cada problematica vista en el estudio.    
-* Es muy importante dominar los temas de conversión de unidades y la notación de potencias de diez, ya que es muy útil y práctico poder pasar de una unidad de medida a otra y también poder expresar cantidades muy grandes o muy pequeñas con la notación científica porque al momento de trabajar con circuitos, electrones, etc, se usa mucho esta notación.   
-**6. BIBLIOGRAFÍA**   
+* Es muy importante dominar los temas de conversión de unidades y la notación de potencias de diez, ya que es muy útil y práctico poder pasar de una unidad de medida a otra y también poder expresar cantidades muy grandes o muy pequeñas con la notación científica porque al momento de trabajar con circuitos, electrones, etc, se usa mucho esta notación.  
+ 
+**6. BIBLIOGRAFÍA**  
 H.Robbins, A., & Wilhem C. Miller. (2008). Análisis de circuitos: teoría y práctica, Cuarta Edición. Ciudad de México: CENGAGE Learning.
 
 
