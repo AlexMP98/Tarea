@@ -9,9 +9,9 @@
 _Objetivos Específicos:_       
 *   Analizar los temas y subtemas que se encuentran en cada capitulo.
 * Resumir el contenido de cada capitulo mediante organizadores gráficos  con el fin de facilitar la comprensión de estos.    
-*  Resolver los ejercicios propuestos para poner en práctica la teoría aprendida. 
+*  Entender como funciona la notación de potencia de diez y las conversiones de unidades.  
 
-**2. MARCO TEÓRICO**   
+*2. MARCO TEÓRICO**   
 
 CAPÍTULO 1    
 ![Mapa 1]( https://github.com/AlexMP98/Tarea/blob/main/Conceptos%20fundamentales%20de%20CD.jpg )    
